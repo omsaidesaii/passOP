@@ -143,7 +143,7 @@ const Manager = () => {
             name="site"
             value={form.site} id="site"
             onChange={handleChange}
-            placeholder="Enter website URL"
+            placeholder="Enter Website Name"
             className="rounded-full border border-green-500 w-full p-4 py-1 bg-white"
             type="text"
           />
